@@ -3,8 +3,7 @@
 // Include class file in your script.
 require('smplPDO.php');
 
-// DB Credentials can be passed to constructor as arguments. 
-// Alternatively they can be hardcoded into the class file. 
+// DB Credentials
 $db_host = 'localhost';
 $db_name = 'YOUR DATABASE NAME';
 $db_user = 'YOUR DATABASE USERNAME';
