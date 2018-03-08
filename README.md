@@ -1,6 +1,6 @@
 # smplPDO
 
-This project is no longer maintained and you probably shouldn't use this class in production.
+This class is no longer maintained and you probably shouldn't use it in production. 
 
 smplPDO Database Abstraction Class smplPDO is a simple and light-weight PHP PDO Database Abstraction Class written to extend PHP Data Objects (PDO) with extremely useful features. Shorthand methods packed with it can reduce the amount of duplicate code and increase readability of your scripts as well as improve security and performance with automatically preparing &amp; executing prepared statements. With smplPDO, you can write fully functional database driven PHP apps with ZERO knowledge of SQL.
 
